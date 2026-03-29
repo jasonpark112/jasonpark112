@@ -1,5 +1,3 @@
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/6559685c-0299-470f-bd80-6be14c1efb92" /># Hello Im jiho park (Jason)
-
 **Security Engineer**
 
 ---

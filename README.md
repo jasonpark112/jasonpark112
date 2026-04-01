@@ -9,8 +9,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=springboot&logoColor=white)
-![Linux](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
 
 
 

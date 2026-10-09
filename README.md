@@ -20,7 +20,7 @@
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="90" alt="AWS Certified DevOps Engineer Professional"/>
-  <img src="https://images.credly.com/size/340x340/images/a3922312-3be9-4be6-a4c1-ae45d376ebbc/CKA_Badge.png" width="90" alt="Certified Kubernetes Administrator (CKA)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1024px-Kubernetes_logo_without_workmark.svg.png" width="90" alt="Certified Kubernetes Administrator (CKA)"/>
 </p>
 ---
 

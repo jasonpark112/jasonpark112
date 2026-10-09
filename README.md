@@ -17,7 +17,21 @@
 ---
 
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fee3ed57-9a93-43b7-862a-19ab6564d1d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/fee3ed57-9a93-43b7-862a-19ab6564d1d8/public_url">
+    <img src="여기에_배지1_이미지주소" width="150" alt="Certification 1"/>
+  </a>
+  <a href="https://www.credly.com/badges/2dc2d051-50d4-4868-93a4-133de60dd76f/public_url">
+    <img src="여기에_배지2_이미지주소" width="150" alt="Certification 2"/>
+  </a>
+  <a href="https://www.credly.com/badges/6820a82b-99c5-4f07-bfee-adc7c829bfce/public_url">
+    <img src="여기에_배지3_이미지주소" width="150" alt="Certification 3"/>
+  </a>
+</p>
+
+
+
 ---
 
 ## TechBlog & LinkedIn

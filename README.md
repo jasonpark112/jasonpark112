@@ -19,15 +19,14 @@
 ## Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/fee3ed57-9a93-43b7-862a-19ab6564d1d8/public_url">
-    <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="120" alt="AWS Certified DevOps Engineer – Professional"/>
-  </a>
-  <a href="https://www.credly.com/badges/2dc2d051-50d4-4868-93a4-133de60dd76f/public_url">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120" alt="CKA: Certified Kubernetes Administrator"/>
-  </a>
-  <a href="https://www.credly.com/badges/6820a82b-99c5-4f07-bfee-adc7c829bfce/public_url">
-    <img src="https://images.credly.com/images/3fffef7a-31ce-4167-a4d1-c0c1dc0dd817/Practitioner_20Kubecost.png" width="120" alt="Practitioner: Kubecost"/>
-  </a>
+  <a href="https://www.credly.com/badges/fee3ed57-9a93-43b7-862a-19ab6564d1d8/public_url"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="120" alt="AWS Certified DevOps Engineer – Professional"/></a>
+  <a href="https://www.credly.com/badges/2dc2d051-50d4-4868-93a4-133de60dd76f/public_url"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120" alt="CKA: Certified Kubernetes Administrator"/></a>
+  <a href="https://www.credly.com/badges/6820a82b-99c5-4f07-bfee-adc7c829bfce/public_url"><img src="https://images.credly.com/images/3fffef7a-31ce-4167-a4d1-c0c1dc0dd817/Practitioner_20Kubecost.png" width="120" alt="Practitioner: Kubecost"/></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-1E3A8A?style=for-the-badge" alt="정보처리기사"/>
+  <img src="https://img.shields.io/badge/SQLD-SQL%20Developer-0F766E?style=for-the-badge" alt="SQLD"/>
 </p>
 
 

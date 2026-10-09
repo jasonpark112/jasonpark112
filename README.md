@@ -17,11 +17,7 @@
 ---
 
 ## Certifications
-
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="90" alt="AWS Certified DevOps Engineer Professional"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1024px-Kubernetes_logo_without_workmark.svg.png" width="90" alt="Certified Kubernetes Administrator (CKA)"/>
-</p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fee3ed57-9a93-43b7-862a-19ab6564d1d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ## TechBlog & LinkedIn

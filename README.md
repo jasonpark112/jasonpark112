@@ -8,11 +8,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-
-
-
 
 ---
 
@@ -29,10 +26,13 @@
   <img src="https://img.shields.io/badge/SQLD-SQL%20Developer-0F766E?style=for-the-badge" alt="SQLD"/>
 </p>
 
-
 ---
 
 ## TechBlog & LinkedIn
 
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://jiholine10.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiho-park-45b44b301/)
+
+### 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

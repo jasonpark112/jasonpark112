@@ -33,6 +33,3 @@
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://jiholine10.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiho-park-45b44b301/)
 
-### 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->

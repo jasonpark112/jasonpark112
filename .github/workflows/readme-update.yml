@@ -1,0 +1,24 @@
+name: Readme Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 매일 한국시간 오전 9시
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jiholine10.tistory.com/rss"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy.mm.dd"
+          commit_message: "📝 Update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"

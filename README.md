@@ -34,5 +34,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiho-park-45b44b301/)
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [[AMA] 악성코드 분석 방법론 논문 분석](https://jiholine10.tistory.com/837) <sub>2026.10.13</sub>
+- [[DFIR] 임의제출의 한계와 기업 내부조사의 법적 실무 요약](https://jiholine10.tistory.com/836) <sub>2026.10.12</sub>
+- [[AMA] 어셈블리어와 리버스 엔지니어링](https://jiholine10.tistory.com/835) <sub>2026.10.12</sub>
+- [CKA: Certified Kubernetes Administrator](https://jiholine10.tistory.com/834) <sub>2026.10.09</sub>
+- [[CKA 대비] 쿠버네티스 클러스터 아키텍처 및 생태계 전체 개요 &lpar;Helm, CRD/Operator, CNI, CRI&rpar;](https://jiholine10.tistory.com/833) <sub>2026.10.04</sub>
 <!-- BLOG-POST-LIST:END -->

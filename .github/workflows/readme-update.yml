@@ -14,10 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          TZ: Asia/Seoul
         with:
           feed_list: "https://jiholine10.tistory.com/rss"
-          max_post_count: 5
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          max_post_count: 10
+          template: "$newline- [$title]($url) <sub>$date</sub>"
           date_format: "yyyy.mm.dd"
           commit_message: "📝 Update latest blog posts"
           committer_username: "github-actions[bot]"

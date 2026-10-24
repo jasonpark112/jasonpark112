@@ -35,13 +35,13 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[DFIR] E01 이미지 분석 및 아티팩트 정밀 검증](https://jiholine10.tistory.com/840) <sub>2026.10.24</sub>
+- [[DFIR] Windows 파일시스템&lpar;FAT32 vs NTFS&rpar; 분석 및 포렌식 아티팩트 핵심 정리](https://jiholine10.tistory.com/839) <sub>2026.10.24</sub>
+- [[DFIR] 쓰기방지, E01 이미징 무결성 검증 &amp;amp; 라이브 수집 핵심 정리](https://jiholine10.tistory.com/838) <sub>2026.10.24</sub>
 - [[AMA] 악성코드 분석 방법론 논문 분석](https://jiholine10.tistory.com/837) <sub>2026.10.13</sub>
 - [[DFIR] 임의제출의 한계와 기업 내부조사의 법적 실무 요약](https://jiholine10.tistory.com/836) <sub>2026.10.13</sub>
 - [[AMA] 어셈블리어와 리버스 엔지니어링](https://jiholine10.tistory.com/835) <sub>2026.10.12</sub>
 - [CKA: Certified Kubernetes Administrator](https://jiholine10.tistory.com/834) <sub>2026.10.10</sub>
 - [[CKA 대비] 쿠버네티스 클러스터 아키텍처 및 생태계 전체 개요 &lpar;Helm, CRD/Operator, CNI, CRI&rpar;](https://jiholine10.tistory.com/833) <sub>2026.10.05</sub>
 - [[CKA 대비] Pod 생성 방법과 디자인 패턴 &amp;amp; Pod가 Node에 생성되기까지 알아야 할 속성들](https://jiholine10.tistory.com/832) <sub>2026.10.04</sub>
-- [[CKA 대비] Service 기능들 &amp;amp; Ingress에서 Gateway로의 전환](https://jiholine10.tistory.com/831) <sub>2026.10.04</sub>
-- [[CKA 대비] 스토리지 종류와 사용방법 &amp;amp; FileStorage를 위한 리소스 생성](https://jiholine10.tistory.com/830) <sub>2026.10.04</sub>
-- [[AMA] 기본 동적 분석](https://jiholine10.tistory.com/829) <sub>2026.09.27</sub>
-- [[DFIR] 수사기관 압수&amp;bull;수색 대응과 기업 내부조사의 법적 한계](https://jiholine10.tistory.com/828) <sub>2026.09.22</sub><!-- BLOG-POST-LIST:END -->
+- [[CKA 대비] Service 기능들 &amp;amp; Ingress에서 Gateway로의 전환](https://jiholine10.tistory.com/831) <sub>2026.10.04</sub><!-- BLOG-POST-LIST:END -->

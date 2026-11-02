@@ -35,6 +35,8 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent 설계서 작성](https://jiholine10.tistory.com/846) <sub>2026.11.02</sub>
+- [[DFIR] 디지털 포렌식 중간평가 복습 &amp;amp; 오답노트](https://jiholine10.tistory.com/845) <sub>2026.11.01</sub>
 - [[AMA] 패킹/언패킹 및 고급 악성코드 기법](https://jiholine10.tistory.com/844) <sub>2026.11.01</sub>
 - [[AMA] 악성코드 행위 분석 및 윈도우 내부 구조](https://jiholine10.tistory.com/843) <sub>2026.10.31</sub>
 - [[AMA] 고급 동적 분석](https://jiholine10.tistory.com/842) <sub>2026.10.31</sub>
@@ -42,6 +44,4 @@
 - [[DFIR] E01 이미지 분석 및 아티팩트 정밀 검증](https://jiholine10.tistory.com/840) <sub>2026.10.24</sub>
 - [[DFIR] Windows 파일시스템&lpar;FAT32 vs NTFS&rpar; 분석 및 포렌식 아티팩트 핵심 정리](https://jiholine10.tistory.com/839) <sub>2026.10.24</sub>
 - [[DFIR] 쓰기방지, E01 이미징 무결성 검증 &amp;amp; 라이브 수집 핵심 정리](https://jiholine10.tistory.com/838) <sub>2026.10.24</sub>
-- [[AMA] 악성코드 분석 방법론 논문 분석](https://jiholine10.tistory.com/837) <sub>2026.10.13</sub>
-- [[DFIR] 임의제출의 한계와 기업 내부조사의 법적 실무 요약](https://jiholine10.tistory.com/836) <sub>2026.10.13</sub>
-- [[AMA] 어셈블리어와 리버스 엔지니어링](https://jiholine10.tistory.com/835) <sub>2026.10.12</sub><!-- BLOG-POST-LIST:END -->
+- [[AMA] 악성코드 분석 방법론 논문 분석](https://jiholine10.tistory.com/837) <sub>2026.10.13</sub><!-- BLOG-POST-LIST:END -->

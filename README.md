@@ -35,13 +35,13 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[구성도] 깃허브 보안 설계](https://jiholine10.tistory.com/856) <sub>2026.11.13</sub>
+- [[구성도] Publisher DNS 동작 흐름](https://jiholine10.tistory.com/855) <sub>2026.11.13</sub>
+- [[구성도] Split 방식과 Proxy Chaining 방식](https://jiholine10.tistory.com/854) <sub>2026.11.13</sub>
+- [[구성도] Pre-Logon 동작방식&lpar;feat. 온프렘 디텍션&rpar;](https://jiholine10.tistory.com/853) <sub>2026.11.13</sub>
+- [[구성도] AI Gateway 동작 방식](https://jiholine10.tistory.com/852) <sub>2026.11.13</sub>
 - [[DFIR] Autopsy 아티팩트 분석 II: PC 분석 및 유출&amp;middot;와이핑 흔적 추적](https://jiholine10.tistory.com/851) <sub>2026.11.10</sub>
 - [[DFIR] Autopsy 아티팩트 분석 II: 범행수법&lpar;MO&rpar; 기반 기밀 유출 경로 추적 실습 &lpar;USB부터 PC, 와이핑까지&rpar;](https://jiholine10.tistory.com/850) <sub>2026.11.09</sub>
 - [[논문 발표 세미나] LLM이 쓴 악성코드 분석 리포트, 과연 어디까지 믿을 수 있을까? : SCLDA 커널 로그와 팩트 검증 파이프라인 제안](https://jiholine10.tistory.com/849) <sub>2026.11.08</sub>
 - [[논문 발표 세미나] LLM이 쓴 악성코드 분석 리포트, 과연 어디까지 믿을 수 있을까? : SCLDA 커널 로그와 팩트 검증 파이프라인 제안](https://jiholine10.tistory.com/848) <sub>2026.11.08</sub>
-- [AI Agent 설계서 작성](https://jiholine10.tistory.com/846) <sub>2026.11.02</sub>
-- [[DFIR] 디지털 포렌식 중간평가 복습 &amp;amp; 오답노트](https://jiholine10.tistory.com/845) <sub>2026.11.01</sub>
-- [[AMA] 패킹/언패킹 및 고급 악성코드 기법](https://jiholine10.tistory.com/844) <sub>2026.11.01</sub>
-- [[AMA] 악성코드 행위 분석 및 윈도우 내부 구조](https://jiholine10.tistory.com/843) <sub>2026.10.31</sub>
-- [[AMA] 고급 동적 분석](https://jiholine10.tistory.com/842) <sub>2026.10.31</sub>
-- [[AMA] 고급 정적 분석](https://jiholine10.tistory.com/841) <sub>2026.10.30</sub><!-- BLOG-POST-LIST:END -->
+- [AI Agent 설계서 작성](https://jiholine10.tistory.com/846) <sub>2026.11.02</sub><!-- BLOG-POST-LIST:END -->

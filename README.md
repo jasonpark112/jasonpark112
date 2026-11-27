@@ -35,13 +35,13 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Netskope GRE 터널 구성](https://jiholine10.tistory.com/859) <sub>2026.11.24</sub>
+- [[구성도] Netskope 프록시 체이닝&lpar;PXC&rpar; 구성](https://jiholine10.tistory.com/861) <sub>2026.11.26</sub>
+- [[구성도] Netskope IPsec 터널 구성](https://jiholine10.tistory.com/860) <sub>2026.11.26</sub>
+- [[구성도] Netskope GRE 터널 구성](https://jiholine10.tistory.com/859) <sub>2026.11.24</sub>
 - [[DFIR] 키워드&amp;middot;해시&amp;middot;GREP 심화 검색 핵심 정리](https://jiholine10.tistory.com/858) <sub>2026.11.19</sub>
 - [Gemini&amp;middot;ChatGPT&amp;middot;Claude 테넌트 제한 헤더&lpar;X-GoogApps, Workspace-Id, Org-Ids&rpar; 총정리](https://jiholine10.tistory.com/857) <sub>2026.11.13</sub>
 - [[구성도] 깃허브 보안 설계](https://jiholine10.tistory.com/856) <sub>2026.11.13</sub>
 - [[구성도] Publisher DNS 동작 흐름](https://jiholine10.tistory.com/855) <sub>2026.11.13</sub>
 - [[구성도] Split 방식과 Proxy Chaining 방식](https://jiholine10.tistory.com/854) <sub>2026.11.13</sub>
 - [[구성도] Pre-Logon 동작방식&lpar;feat. 온프렘 디텍션&rpar;](https://jiholine10.tistory.com/853) <sub>2026.11.13</sub>
-- [[구성도] AI Gateway 동작 방식](https://jiholine10.tistory.com/852) <sub>2026.11.13</sub>
-- [[DFIR] Autopsy 아티팩트 분석 II: PC 분석 및 유출&amp;middot;와이핑 흔적 추적](https://jiholine10.tistory.com/851) <sub>2026.11.10</sub>
-- [[DFIR] Autopsy 아티팩트 분석 II: 범행수법&lpar;MO&rpar; 기반 기밀 유출 경로 추적 실습 &lpar;USB부터 PC, 와이핑까지&rpar;](https://jiholine10.tistory.com/850) <sub>2026.11.09</sub><!-- BLOG-POST-LIST:END -->
+- [[구성도] AI Gateway 동작 방식](https://jiholine10.tistory.com/852) <sub>2026.11.13</sub><!-- BLOG-POST-LIST:END -->
